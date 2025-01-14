@@ -13,17 +13,17 @@
       <img src="/profile.jpg" alt="Profile picture" class="profile-pic" />
       
       <div class="button-container">
-        <a href={twitterLink} target="_blank">
+        <a href={twitterLink} >
         <Button  color="blue" target="_blank" class="action-button">
           <span class="button-text">Twitter</span>
         </Button>
         </a>
-        <a href={githubLink} target="_blank">
+        <a href={githubLink} >
         <Button  color="green" class="action-button">
           <span class="button-text">Github</span>
         </Button>
         </a>
-        <a href={hashnodeURL} target="_blank">
+        <a href={hashnodeURL}>
         <Button  color="purple" class="action-button">
           <span class="button-text">Blog</span>
         </Button>
